@@ -1,4 +1,4 @@
-# dennisbatiste
+
 <h1>Hi, I'm Dennis, an <a href="https://linkedin.com/in/edward-jordan-80174815a">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
