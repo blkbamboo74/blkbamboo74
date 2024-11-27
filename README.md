@@ -4,7 +4,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ejordan04/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/dennibat/osticket-prerequisites)
   - [osTicket: Post-Installation Configuration](https://github.com/ejordan04/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ejordan04/ticket-lifecycle)
 - <b>Microsoft Azure</b>
