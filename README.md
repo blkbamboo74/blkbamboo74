@@ -10,7 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/ejordan04/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dennibat/azure-network-protocols)
-  - [Creating a Storage Account in Microsoft Azure](https://github.com/ejordan04/azure-storage-account)
+  - [Creating a Storage Account in Microsoft Azure](https://github.com/dennibat/azure-storage-account.git)
  
 
 
